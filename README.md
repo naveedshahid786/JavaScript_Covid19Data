@@ -3,4 +3,4 @@ JavaScript FetchAPI - Covid-19 Live World DataTable using Jquery &amp; Bootstrap
 
 
 ### Preview
-![](Preview_Covid19.JPG)
+![](JavaScript_Covid19.JPG)
